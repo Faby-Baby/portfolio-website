@@ -1,0 +1,29 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "learning bootstrap v5 with sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass"
+  ],
+  "author": "Fabian Bertrand",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.77.5"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-brands-svg-icons": "^6.5.2",
+    "@fortawesome/free-regular-svg-icons": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "autoprefixer": "^10.4.19",
+    "bootstrap": "^5.3.3"
+  }
+}
