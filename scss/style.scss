@@ -15,3 +15,9 @@
 @use 'sections/portfolio';
 @use 'sections/get-started';
 @use 'sections/footer';
+
+#logo{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
